@@ -26,8 +26,6 @@
 
 ## 交流群
 
-点击链接加入群聊【鬼手PC逆向交流4群】：https://jq.qq.com/?_wv=1027&k=vk4QWlT3
+点击链接加入群聊【鬼手PC逆向交流5群】：https://jq.qq.com/?_wv=1027&k=ZKEuSv76
 
-群号码：537384511
-
-![鬼手游戏逆向交流群聊二维码](README.assets/Group4.jpg)
+QQ Group：715410952
